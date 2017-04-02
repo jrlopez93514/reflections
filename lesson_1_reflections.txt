@@ -1,0 +1,12 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Initializing a repository is the first step to source control of your files. 
+You need to do it because only you know when you're ready to start this process.
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+It represents work that you believe is ready to commit but may not have all the files
+you eventually want to commit. It allows you to submit files before your ready to commit.
+
+
