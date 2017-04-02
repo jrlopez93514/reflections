@@ -29,3 +29,8 @@ Why do we represent it in the diagram the way we do?
 We end up with one branch with both sets of changes. Because the commits are
 blended together based on their time line but are still distinct in terms of each branch. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Automatic merging save time and effort but introduces risk. Manually merging
+requires knowledge of the changes but exposes what was done to scrutiny. 
+
