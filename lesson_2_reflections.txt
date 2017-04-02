@@ -19,4 +19,8 @@ How would branches help?
 If I'm making a new version of an application or doing some experimental work. 
 Branches keep the work separate so they don't affect each other.
 
+How do the diagrams help you visualize the branch structure?
+
+They show the relationship of the files on each branch and their common origin.
+
 
