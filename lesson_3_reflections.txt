@@ -7,4 +7,9 @@ stay up-to-date with your remote repository?
 
 You may not be ready to accept new changes.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+A fork is a copy of branch on GitHub. A clone is a copy of a branch either remote or local.
+A branch is a name given to a particular repository instance.
+
 
