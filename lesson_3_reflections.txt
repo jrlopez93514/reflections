@@ -16,4 +16,9 @@ What is the benefit of having a copy of the last known state of the remote store
 
 It allows you to do merges locally before pushing changes remote.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+Collaboration would have to be done through direct contact. It would be harder trying to contact a person
+who was extremely difficult to get a hold of.
+
 
